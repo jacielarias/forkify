@@ -4,3 +4,8 @@ export const RES_PER_PAGE = 10;
 export const KEY = 'bfd0bf71-ddc1-4714-ad0e-10eb7c119e2e'
 export const MODAL_CLOSE_SEC = 2.5;
 
+const newFeature = function(){
+    console.log('Welcome to the application')
+}
+
+newFeature();
