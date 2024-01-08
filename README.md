@@ -1,3 +1,3 @@
-# forkify Project
+# forkify Project Jaciel Arias
 
-Recipe application with custom recipe uploads.
+Ver proyecto: https://forkify-project-jaciel-arias.netlify.app/
